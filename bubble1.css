@@ -1,0 +1,13 @@
+.bubble1 {
+	opacity: 0;
+	position: absolute;
+	background: url('images/bubbles/bubble1.png') no-repeat;
+	height: 60px;
+	width: 200px;
+	margin: -50px 0 0 100px;
+	padding: 7px 60px 4px 25px;
+	overflow: hidden;
+	font-size: .8em;
+	line-height: 2;
+	font-family: Georgia;
+}
